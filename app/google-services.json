@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863122196591",
+    "firebase_url": "https://farmbetter-9b480.firebaseio.com",
+    "project_id": "farmbetter-9b480",
+    "storage_bucket": "farmbetter-9b480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863122196591:android:78e2c435dddb638003259a",
+        "android_client_info": {
+          "package_name": "com.example.farmbetter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863122196591-672bapnrvt5bd5uhi236tnhrch33dntr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmbetter",
+            "certificate_hash": "8fd9de3c79cb6acde47103667d67e77eb6d7a8cb"
+          }
+        },
+        {
+          "client_id": "863122196591-kjfm9trg1gd6vh1tqrl8p4cpcbdvspfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9DomQT028pWEGhSzA58W3v8EioK7NCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863122196591-kjfm9trg1gd6vh1tqrl8p4cpcbdvspfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
